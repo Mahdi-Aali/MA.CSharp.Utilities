@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MA.CSharp.Utilities</id>
+    <version>1.0.0</version>
+    <title>Custom CSharp object utilities</title>
+    <authors>Mahdi-Aali</authors>
+    <icon>kBUzLMSccuAwRMkUY8SL--3--ha7ho.jpg</icon>
+    <projectUrl>https://github.com/Mahdi-Aali/MA.CSharp.Utilities</projectUrl>
+    <description>Custom c# programming language utilities. to make using of objects more fun.</description>
+    <copyright>Be free to use.</copyright>
+    <tags>mahdi-aali mahdi aali utilities ma.csharp.utilities</tags>
+    <repository url="https://github.com/Mahdi-Aali/MA.CSharp.Utilities" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\CustomPackages\MA.CSharp\MA.CSharp.Utilities\bin\Debug\net6.0\MA.CSharp.Utilities.dll" target="lib\net6.0\MA.CSharp.Utilities.dll" />
+    <file src="C:\Users\mahdi\Downloads\kBUzLMSccuAwRMkUY8SL--3--ha7ho.jpg" target="\kBUzLMSccuAwRMkUY8SL--3--ha7ho.jpg" />
+  </files>
+</package>

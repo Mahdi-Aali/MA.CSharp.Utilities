@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Custom CSharp object utilities</Title>
+    <Authors>Mahdi-Aali</Authors>
+    <Company>Mahdi-Aali</Company>
+    <Description>Custom c# programming language utilities. to make using of objects more fun.</Description>
+    <Copyright>Be free to use.</Copyright>
+    <PackageProjectUrl>https://github.com/Mahdi-Aali/MA.CSharp.Utilities</PackageProjectUrl>
+    <PackageIcon>kBUzLMSccuAwRMkUY8SL--3--ha7ho.jpg</PackageIcon>
+    <RepositoryUrl>https://github.com/Mahdi-Aali/MA.CSharp.Utilities</RepositoryUrl>
+    <PackageTags>mahdi-aali;mahdi aali;utilities;ma.csharp.utilities;</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\mahdi\Downloads\kBUzLMSccuAwRMkUY8SL--3--ha7ho.jpg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

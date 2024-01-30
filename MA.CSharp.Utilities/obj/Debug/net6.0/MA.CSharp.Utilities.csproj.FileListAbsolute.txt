@@ -1,0 +1,12 @@
+D:\CustomPackages\MA.CSharp\MA.CSharp.Utilities\bin\Debug\net6.0\MA.CSharp.Utilities.deps.json
+D:\CustomPackages\MA.CSharp\MA.CSharp.Utilities\bin\Debug\net6.0\MA.CSharp.Utilities.dll
+D:\CustomPackages\MA.CSharp\MA.CSharp.Utilities\bin\Debug\net6.0\MA.CSharp.Utilities.pdb
+D:\CustomPackages\MA.CSharp\MA.CSharp.Utilities\obj\Debug\net6.0\MA.CSharp.Utilities.csproj.AssemblyReference.cache
+D:\CustomPackages\MA.CSharp\MA.CSharp.Utilities\obj\Debug\net6.0\MA.CSharp.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\CustomPackages\MA.CSharp\MA.CSharp.Utilities\obj\Debug\net6.0\MA.CSharp.Utilities.AssemblyInfoInputs.cache
+D:\CustomPackages\MA.CSharp\MA.CSharp.Utilities\obj\Debug\net6.0\MA.CSharp.Utilities.AssemblyInfo.cs
+D:\CustomPackages\MA.CSharp\MA.CSharp.Utilities\obj\Debug\net6.0\MA.CSharp.Utilities.csproj.CoreCompileInputs.cache
+D:\CustomPackages\MA.CSharp\MA.CSharp.Utilities\obj\Debug\net6.0\MA.CSharp.Utilities.dll
+D:\CustomPackages\MA.CSharp\MA.CSharp.Utilities\obj\Debug\net6.0\refint\MA.CSharp.Utilities.dll
+D:\CustomPackages\MA.CSharp\MA.CSharp.Utilities\obj\Debug\net6.0\MA.CSharp.Utilities.pdb
+D:\CustomPackages\MA.CSharp\MA.CSharp.Utilities\obj\Debug\net6.0\ref\MA.CSharp.Utilities.dll
